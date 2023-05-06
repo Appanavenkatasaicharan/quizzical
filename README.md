@@ -1,1 +1,1 @@
-This is a dynamic quiz app . Looks a bit ugly but it works and can implement the basic features of a quiz app.
+This is a dynamic quiz app .  it  can implement the basic features of a quiz app.
